@@ -1,5 +1,5 @@
 Teste de Software
-==================
+=================
 
 Projeto: carrinho-de-compras
 
